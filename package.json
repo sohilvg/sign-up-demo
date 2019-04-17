@@ -1,0 +1,30 @@
+{
+  "name": "sign-up-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sohil529/sign-up-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sohil529/sign-up-demo/issues"
+  },
+  "homepage": "https://github.com/Sohil529/sign-up-demo#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "express": "^4.16.4",
+    "knex": "^0.16.3",
+    "mysql": "^2.16.0",
+    "node": "^11.11.0",
+    "nodemon": "^1.18.10",
+    "npm": "^6.9.0",
+    "path": "^0.12.7",
+    "pg": "^7.8.2"
+  }
+}
